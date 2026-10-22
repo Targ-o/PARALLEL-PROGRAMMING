@@ -1,0 +1,62 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : 
+			[
+				"cxx_std_23"
+			],
+			"compile-options" : [],
+			"definitions" : 
+			[
+				"_MBCS"
+			],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : 
+			[
+				"cxx_std_23"
+			],
+			"compile-options" : [],
+			"definitions" : 
+			[
+				"_MBCS"
+			],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build",
+	"dir-cur-src" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f",
+	"dir-top-bld" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build",
+	"dir-top-src" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build/CMakeFiles/__cmake_cxx_std_23.dir",
+	"sources" : {}
+}

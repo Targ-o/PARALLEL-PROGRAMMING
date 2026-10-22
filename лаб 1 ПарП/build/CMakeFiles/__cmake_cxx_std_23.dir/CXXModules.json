@@ -1,0 +1,35 @@
+{
+	"modules" : 
+	{
+		"std" : 
+		{
+			"bmi" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build/CMakeFiles/__cmake_cxx_std_23.dir/std.ifc",
+			"is-private" : false
+		},
+		"std.compat" : 
+		{
+			"bmi" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build/CMakeFiles/__cmake_cxx_std_23.dir/std.compat.ifc",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"std" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles\\__cmake_cxx_std_23.dir\\std.ifc"
+		},
+		"std.compat" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles\\__cmake_cxx_std_23.dir\\std.compat.ifc"
+		}
+	},
+	"usages" : 
+	{
+		"std.compat" : 
+		[
+			"std"
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build",
+	"dir-cur-src" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f",
+	"dir-top-bld" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build",
+	"dir-top-src" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build/CMakeFiles/__cmake_cxx_std_23.dir"
+	],
+	"module-dir" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/build/CMakeFiles/matrix_multiply.dir",
+	"sources" : 
+	{
+		"CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/\u0422\u0430\u0440\u0433/Downloads/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/\u043b\u0430\u0431 1 \u041f\u0430\u0440\u041f/src/Source1.cpp"
+		}
+	}
+}

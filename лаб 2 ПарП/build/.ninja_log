@@ -1,0 +1,18 @@
+# ninja log v7
+31	89	8143537378918554	CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj.ddi	7a3dd96c56df18a8
+49	105	8143537379099018	CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj.ddi	9c8414eccc7c5403
+41	410	8143537379008784	CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj.ddi	eec6fa99e76a75ac
+421	494	8143537383495628	CMakeFiles/__cmake_cxx_std_23.dir/CXX.dd	5404da54f1490191
+421	494	8143537383495628	CMakeFiles/__cmake_cxx_std_23.dir/CXXModules.json	5404da54f1490191
+421	494	8143537383495628	CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj.modmap	5404da54f1490191
+421	494	8143537383495628	CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj.modmap	5404da54f1490191
+504	576	8143537384303080	CMakeFiles/matrix_multiply.dir/CXX.dd	79faba8756da5116
+504	576	8143537384303080	CMakeFiles/matrix_multiply.dir/CXXModules.json	79faba8756da5116
+504	576	8143537384303080	CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj.modmap	79faba8756da5116
+512	6589	8143537444343151	CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.ixx.obj	3b027283792bc0e3
+512	6589	8143537444343151	CMakeFiles/__cmake_cxx_std_23.dir/std.ifc	3b027283792bc0e3
+6590	6711	8143537445626441	CMakeFiles/__cmake_cxx_std_23.dir/C_/Program_Files/Microsoft_Visual_Studio/18/Insiders/VC/Tools/MSVC/14.51.36231/modules/std.compat.ixx.obj	e5adcf339b5ab43c
+6590	6711	8143537445626441	CMakeFiles/__cmake_cxx_std_23.dir/std.compat.ifc	e5adcf339b5ab43c
+6712	6785	8143537445716662	__cmake_cxx_std_23.lib	9d7de73c8b8f5800
+6598	7558	8143537444583757	CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj	113510837b42fb7e
+7558	8219	8143537454178989	matrix_multiply.exe	2ea79a1731352c0b

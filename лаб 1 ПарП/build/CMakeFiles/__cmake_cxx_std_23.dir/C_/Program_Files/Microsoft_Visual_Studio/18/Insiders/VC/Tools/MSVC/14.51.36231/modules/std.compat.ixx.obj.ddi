@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\__cmake_cxx_std_23.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Тарг\\Downloads\\лаб 1 ПарП\\лаб 1 ПарП\\build\\vc140.pdb",
+                "CMakeFiles\\__cmake_cxx_std_23.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.51.36231\\modules\\std.compat.ixx.obj.ddi",
+                "std.compat.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std.compat",
+                    "source-path": "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\modules\\std.compat.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}

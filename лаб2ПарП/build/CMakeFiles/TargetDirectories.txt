@@ -1,0 +1,4 @@
+C:/Users/Тарг/OneDrive/Belgeler/ПарП/лаб2ПарП/build/CMakeFiles/__cmake_cxx23.dir
+C:/Users/Тарг/OneDrive/Belgeler/ПарП/лаб2ПарП/build/CMakeFiles/matrix_multiply.dir
+C:/Users/Тарг/OneDrive/Belgeler/ПарП/лаб2ПарП/build/CMakeFiles/edit_cache.dir
+C:/Users/Тарг/OneDrive/Belgeler/ПарП/лаб2ПарП/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\__cmake_cxx23.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\modules\\std.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Тарг\\OneDrive\\Belgeler\\ПарП\\лаб2ПарП\\build\\vc140.pdb",
+                "CMakeFiles\\__cmake_cxx23.dir\\C_\\Program_Files\\Microsoft_Visual_Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\modules\\std.ixx.obj.ddi",
+                "std.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.44.35207\\modules\\std.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

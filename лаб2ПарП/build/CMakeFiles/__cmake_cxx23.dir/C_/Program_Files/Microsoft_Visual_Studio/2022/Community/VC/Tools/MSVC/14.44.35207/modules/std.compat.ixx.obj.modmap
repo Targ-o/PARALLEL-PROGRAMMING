@@ -1,0 +1,3 @@
+-interface
+-ifcOutput CMakeFiles\__cmake_cxx23.dir\std.compat.ifc
+-reference std=CMakeFiles\__cmake_cxx23.dir\std.ifc

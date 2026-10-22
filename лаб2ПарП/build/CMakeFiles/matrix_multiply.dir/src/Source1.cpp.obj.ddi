@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\matrix_multiply.dir\\src\\Source1.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Тарг\\OneDrive\\Belgeler\\ПарП\\лаб2ПарП\\build\\vc140.pdb",
+                "CMakeFiles\\matrix_multiply.dir\\src\\Source1.cpp.obj.ddi"
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\__cmake_cxx23.dir\C_\Program_Files\Microsoft_Visual_Studio\2022\Community\VC\Tools\MSVC\14.44.35207\modules\std.ixx.obj | CMakeFiles\__cmake_cxx23.dir\std.ifc: dyndep
+  restat = 1
+
+build CMakeFiles\__cmake_cxx23.dir\C_\Program_Files\Microsoft_Visual_Studio\2022\Community\VC\Tools\MSVC\14.44.35207\modules\std.compat.ixx.obj | CMakeFiles\__cmake_cxx23.dir\std.compat.ifc: dyndep | CMakeFiles\__cmake_cxx23.dir\std.ifc
+  restat = 1
+

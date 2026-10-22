@@ -1,0 +1,18 @@
+# ninja log v6
+55	113	8143781934703460	CMakeFiles/__cmake_cxx23.dir/C_/Program_Files/Microsoft_Visual_Studio/2022/Community/VC/Tools/MSVC/14.44.35207/modules/std.compat.ixx.obj.ddi	e2cfe8b9c13a6128
+64	123	8143781934793683	CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj.ddi	75618718db7e0353
+43	591	8143781934586463	CMakeFiles/__cmake_cxx23.dir/C_/Program_Files/Microsoft_Visual_Studio/2022/Community/VC/Tools/MSVC/14.44.35207/modules/std.ixx.obj.ddi	4351d50d8f50858
+605	717	8143781941247106	CMakeFiles/__cmake_cxx23.dir/CXX.dd	4e67e7764c5fa023
+605	717	8143781941247106	C:/Users/Тарг/OneDrive/Belgeler/ПарП/лаб2ПарП/build/CMakeFiles/__cmake_cxx23.dir/CXXModules.json	4e67e7764c5fa023
+605	717	8143781941247106	CMakeFiles/__cmake_cxx23.dir/C_/Program_Files/Microsoft_Visual_Studio/2022/Community/VC/Tools/MSVC/14.44.35207/modules/std.ixx.obj.modmap	4e67e7764c5fa023
+605	717	8143781941247106	CMakeFiles/__cmake_cxx23.dir/C_/Program_Files/Microsoft_Visual_Studio/2022/Community/VC/Tools/MSVC/14.44.35207/modules/std.compat.ixx.obj.modmap	4e67e7764c5fa023
+741	813	8143781942211099	CMakeFiles/matrix_multiply.dir/CXX.dd	b3964232867af013
+741	813	8143781942211099	C:/Users/Тарг/OneDrive/Belgeler/ПарП/лаб2ПарП/build/CMakeFiles/matrix_multiply.dir/CXXModules.json	b3964232867af013
+741	813	8143781942211099	CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj.modmap	b3964232867af013
+730	6941	8143782003425873	CMakeFiles/__cmake_cxx23.dir/C_/Program_Files/Microsoft_Visual_Studio/2022/Community/VC/Tools/MSVC/14.44.35207/modules/std.ixx.obj	2007b557b9c7e398
+730	6941	8143782003425873	CMakeFiles/__cmake_cxx23.dir/std.ifc	2007b557b9c7e398
+6943	7052	8143782004601598	CMakeFiles/__cmake_cxx23.dir/C_/Program_Files/Microsoft_Visual_Studio/2022/Community/VC/Tools/MSVC/14.44.35207/modules/std.compat.ixx.obj	38b7272dea48694f
+6943	7052	8143782004601598	CMakeFiles/__cmake_cxx23.dir/std.compat.ifc	38b7272dea48694f
+7053	7145	8143782004681769	__cmake_cxx23.lib	db25629e80c36031
+6951	7894	8143782003661716	CMakeFiles/matrix_multiply.dir/src/Source1.cpp.obj	96b45e858f0634f0
+7895	8543	8143782013100073	matrix_multiply.exe	4687ec82f6d92833

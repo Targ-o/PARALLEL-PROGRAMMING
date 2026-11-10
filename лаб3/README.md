@@ -1,4 +1,4 @@
-<img width="1620" height="990" alt="image" src="https://github.com/user-attachments/assets/09dc5c9e-68db-448b-b7f0-dc37de8a51e9" />## Скрншот
+## Скриншоты
 
 <img width="624" height="980" alt="image" src="https://github.com/user-attachments/assets/9c86b6e0-883f-4c38-bc23-0c2ea8abf2bb" />
 
